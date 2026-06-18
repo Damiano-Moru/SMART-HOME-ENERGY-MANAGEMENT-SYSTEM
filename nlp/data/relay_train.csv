@@ -1,0 +1,641 @@
+user_input,intent,language,label
+How do I optimize power?,GET_ADVICE,English,3
+"Je, taa imewaka?",GET_STATUS,Swahili,2
+Turn off the light.,TURN_OFF,English,1
+Zima taa.,TURN_OFF,Swahili,1
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Washa stima.,TURN_ON,Swahili,0
+Washa stima.,TURN_ON,Swahili,0
+Power up the desk lamp in the lab.,TURN_ON,English,0
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+Washa stima.,TURN_ON,Swahili,0
+Weka bulb OFF.,TURN_OFF,Swahili,1
+"Je, taa imewaka?",GET_STATUS,Swahili,2
+Washa stima.,TURN_ON,Swahili,0
+"Je, bulb imewaka?",GET_STATUS,Swahili,2
+Is the desk lamp on?,GET_STATUS,English,2
+Give me tips to lower light usage.,GET_ADVICE,English,3
+"Je, kuna stima kwa bulb?",GET_STATUS,Swahili,2
+Nisaidie kupunguza gharama ya stima.,GET_ADVICE,Swahili,3
+"Je, stima imewaka?",GET_STATUS,Swahili,2
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+How can I save energy with this bulb?,GET_ADVICE,English,3
+Zima stima.,TURN_OFF,Swahili,1
+Activate the sitting room smart light.,TURN_ON,English,0
+Washa taa ya meza.,TURN_ON,Swahili,0
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+Zima bulb.,TURN_OFF,Swahili,1
+Check the status of the bulb.,GET_STATUS,English,2
+Is the classroom light burning?,GET_STATUS,English,2
+Turn on the light.,TURN_ON,English,0
+Weka taa OFF.,TURN_OFF,Swahili,1
+Angalia kama stima iko.,GET_STATUS,Swahili,2
+Switch on the smart light.,TURN_ON,English,0
+Taa ya jikoni iko on?,GET_STATUS,Swahili,2
+How can I save energy with this smart light?,GET_ADVICE,English,3
+Washa stima.,TURN_ON,Swahili,0
+"Je, kuna stima kwa taa ya meza?",GET_STATUS,Swahili,2
+Nisaidie kupunguza gharama ya taa ya meza.,GET_ADVICE,Swahili,3
+Is the relay active?,GET_STATUS,English,2
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+Zima taa ya meza ya darasani.,TURN_OFF,Swahili,1
+Is the classroom light burning?,GET_STATUS,English,2
+Weka bulb ON.,TURN_ON,Swahili,0
+Taa ya darasani iko on?,GET_STATUS,Swahili,2
+How can I save energy with this smart light?,GET_ADVICE,English,3
+Zima stima ya maandazi/lab.,TURN_OFF,Swahili,1
+Switch off the desk lamp.,TURN_OFF,English,1
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Weka bulb OFF.,TURN_OFF,Swahili,1
+Turn off the light.,TURN_OFF,English,1
+Kill the power to the smart light.,TURN_OFF,English,1
+Is the relay active?,GET_STATUS,English,2
+How can I save energy with this desk lamp?,GET_ADVICE,English,3
+"Je, stima imewaka?",GET_STATUS,Swahili,2
+Washa taa ya meza ya maandazi/lab.,TURN_ON,Swahili,0
+Is the desk lamp on?,GET_STATUS,English,2
+Is the kitchen light burning?,GET_STATUS,English,2
+Zima taa.,TURN_OFF,Swahili,1
+Activate the kitchen led.,TURN_ON,English,0
+Switch on the light.,TURN_ON,English,0
+"Je, taa imewaka?",GET_STATUS,Swahili,2
+Washa bulb ya jikoni.,TURN_ON,Swahili,0
+Nisaidie kupunguza gharama ya taa.,GET_ADVICE,Swahili,3
+Is the relay active?,GET_STATUS,English,2
+Is the smart light on?,GET_STATUS,English,2
+Is the desk lamp on?,GET_STATUS,English,2
+Turn off the desk lamp.,TURN_OFF,English,1
+"Je, taa imewaka?",GET_STATUS,Swahili,2
+Nisaidie kupunguza gharama ya taa ya meza.,GET_ADVICE,Swahili,3
+Kill the power to the light.,TURN_OFF,English,1
+Weka taa ON.,TURN_ON,Swahili,0
+Is the kitchen light burning?,GET_STATUS,English,2
+Washa bulb ya darasani.,TURN_ON,Swahili,0
+"Je, kuna stima kwa stima?",GET_STATUS,Swahili,2
+Is the classroom light burning?,GET_STATUS,English,2
+Zima taa ya darasani.,TURN_OFF,Swahili,1
+Taa ya chumbani iko on?,GET_STATUS,Swahili,2
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+How do I optimize power?,GET_ADVICE,English,3
+Switch on the smart light.,TURN_ON,English,0
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Turn on the desk lamp.,TURN_ON,English,0
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+"Je, stima imewaka?",GET_STATUS,Swahili,2
+Washa bulb ya jikoni.,TURN_ON,Swahili,0
+Taa ya sebuleni iko on?,GET_STATUS,Swahili,2
+Zima bulb ya darasani.,TURN_OFF,Swahili,1
+Zima stima.,TURN_OFF,Swahili,1
+Is the kitchen light burning?,GET_STATUS,English,2
+Is the bedroom light burning?,GET_STATUS,English,2
+Is the bulb on?,GET_STATUS,English,2
+Zima taa ya meza ya darasani.,TURN_OFF,Swahili,1
+Weka taa ya meza ON.,TURN_ON,Swahili,0
+Turn off the bulb.,TURN_OFF,English,1
+Is the light on?,GET_STATUS,English,2
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+Activate the lab desk lamp.,TURN_ON,English,0
+Power up the desk lamp in the sitting room.,TURN_ON,English,0
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Washa bulb.,TURN_ON,Swahili,0
+Switch off the led.,TURN_OFF,English,1
+Switch on the light.,TURN_ON,English,0
+Is the lab light burning?,GET_STATUS,English,2
+Check the status of the desk lamp.,GET_STATUS,English,2
+Switch off the led.,TURN_OFF,English,1
+How can I save energy with this led?,GET_ADVICE,English,3
+Turn on the light.,TURN_ON,English,0
+Zima stima.,TURN_OFF,Swahili,1
+Zima stima.,TURN_OFF,Swahili,1
+Is the classroom light burning?,GET_STATUS,English,2
+Washa stima.,TURN_ON,Swahili,0
+Taa ya sebuleni iko on?,GET_STATUS,Swahili,2
+Shut down the bulb in the classroom.,TURN_OFF,English,1
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+Check the status of the light.,GET_STATUS,English,2
+Washa stima ya darasani.,TURN_ON,Swahili,0
+Activate the lab smart light.,TURN_ON,English,0
+Turn on the led.,TURN_ON,English,0
+Is the smart light on?,GET_STATUS,English,2
+Turn on the smart light.,TURN_ON,English,0
+Is the smart light on?,GET_STATUS,English,2
+Activate the lab light.,TURN_ON,English,0
+Nisaidie kupunguza gharama ya stima.,GET_ADVICE,Swahili,3
+Shut down the led in the bedroom.,TURN_OFF,English,1
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+Is the relay active?,GET_STATUS,English,2
+Turn on the desk lamp.,TURN_ON,English,0
+Turn off the desk lamp.,TURN_OFF,English,1
+Switch on the light.,TURN_ON,English,0
+How do I optimize power?,GET_ADVICE,English,3
+Washa stima.,TURN_ON,Swahili,0
+Switch off the smart light.,TURN_OFF,English,1
+Kill the power to the smart light.,TURN_OFF,English,1
+Switch on the light.,TURN_ON,English,0
+Power up the smart light in the bedroom.,TURN_ON,English,0
+Kill the power to the desk lamp.,TURN_OFF,English,1
+Weka taa ya meza OFF.,TURN_OFF,Swahili,1
+"Je, kuna stima kwa stima?",GET_STATUS,Swahili,2
+Angalia kama stima iko.,GET_STATUS,Swahili,2
+Kill the power to the desk lamp.,TURN_OFF,English,1
+Kill the power to the light.,TURN_OFF,English,1
+"Je, kuna stima kwa stima?",GET_STATUS,Swahili,2
+Switch on the bulb.,TURN_ON,English,0
+Switch on the desk lamp.,TURN_ON,English,0
+Zima stima.,TURN_OFF,Swahili,1
+Shut down the bulb in the sitting room.,TURN_OFF,English,1
+Power up the led in the kitchen.,TURN_ON,English,0
+Is the light on?,GET_STATUS,English,2
+Switch on the bulb.,TURN_ON,English,0
+Nisaidie kupunguza gharama ya taa.,GET_ADVICE,Swahili,3
+Is the classroom light burning?,GET_STATUS,English,2
+Shut down the desk lamp in the lab.,TURN_OFF,English,1
+Zima stima.,TURN_OFF,Swahili,1
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+Is the relay active?,GET_STATUS,English,2
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+Taa ya darasani iko on?,GET_STATUS,Swahili,2
+Zima taa ya meza ya chumbani.,TURN_OFF,Swahili,1
+How do I optimize power?,GET_ADVICE,English,3
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+How do I optimize power?,GET_ADVICE,English,3
+Check the status of the smart light.,GET_STATUS,English,2
+Weka bulb OFF.,TURN_OFF,Swahili,1
+Switch off the led.,TURN_OFF,English,1
+"Je, taa imewaka?",GET_STATUS,Swahili,2
+Activate the bedroom light.,TURN_ON,English,0
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+Shut down the smart light in the kitchen.,TURN_OFF,English,1
+Angalia kama stima iko.,GET_STATUS,Swahili,2
+Activate the kitchen light.,TURN_ON,English,0
+Washa taa ya meza.,TURN_ON,Swahili,0
+Angalia kama stima iko.,GET_STATUS,Swahili,2
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+Nisaidie kupunguza gharama ya stima.,GET_ADVICE,Swahili,3
+Shut down the led in the lab.,TURN_OFF,English,1
+Shut down the smart light in the kitchen.,TURN_OFF,English,1
+"Je, kuna stima kwa stima?",GET_STATUS,Swahili,2
+Turn on the desk lamp.,TURN_ON,English,0
+How can I save energy with this light?,GET_ADVICE,English,3
+Washa taa ya meza.,TURN_ON,Swahili,0
+"Je, stima imewaka?",GET_STATUS,Swahili,2
+How can I save energy with this bulb?,GET_ADVICE,English,3
+Washa taa ya meza ya chumbani.,TURN_ON,Swahili,0
+"Je, stima imewaka?",GET_STATUS,Swahili,2
+Is the lab light burning?,GET_STATUS,English,2
+Weka stima ON.,TURN_ON,Swahili,0
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+How can I save energy with this led?,GET_ADVICE,English,3
+Washa taa.,TURN_ON,Swahili,0
+Weka taa ya meza ON.,TURN_ON,Swahili,0
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+Switch off the light.,TURN_OFF,English,1
+Turn off the led.,TURN_OFF,English,1
+Switch on the led.,TURN_ON,English,0
+Angalia kama stima iko.,GET_STATUS,Swahili,2
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Is the relay active?,GET_STATUS,English,2
+Zima stima ya darasani.,TURN_OFF,Swahili,1
+How can I save energy with this smart light?,GET_ADVICE,English,3
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Nisaidie kupunguza gharama ya taa ya meza.,GET_ADVICE,Swahili,3
+Zima taa ya meza.,TURN_OFF,Swahili,1
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+Power up the light in the kitchen.,TURN_ON,English,0
+How can I save energy with this desk lamp?,GET_ADVICE,English,3
+Zima bulb.,TURN_OFF,Swahili,1
+"Je, taa ya meza imewaka?",GET_STATUS,Swahili,2
+How can I save energy with this light?,GET_ADVICE,English,3
+Switch off the bulb.,TURN_OFF,English,1
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Activate the lab light.,TURN_ON,English,0
+Nisaidie kupunguza gharama ya taa ya meza.,GET_ADVICE,Swahili,3
+"Je, taa ya meza imewaka?",GET_STATUS,Swahili,2
+Weka bulb OFF.,TURN_OFF,Swahili,1
+Weka taa ya meza ON.,TURN_ON,Swahili,0
+Zima taa ya meza.,TURN_OFF,Swahili,1
+Taa ya maandazi/lab iko on?,GET_STATUS,Swahili,2
+Switch off the light.,TURN_OFF,English,1
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Is the sitting room light burning?,GET_STATUS,English,2
+Weka stima OFF.,TURN_OFF,Swahili,1
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Taa ya maandazi/lab iko on?,GET_STATUS,Swahili,2
+Zima taa ya maandazi/lab.,TURN_OFF,Swahili,1
+How can I save energy with this bulb?,GET_ADVICE,English,3
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Give me tips to lower light usage.,GET_ADVICE,English,3
+How can I save energy with this led?,GET_ADVICE,English,3
+Switch off the led.,TURN_OFF,English,1
+Washa taa.,TURN_ON,Swahili,0
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+Weka taa ON.,TURN_ON,Swahili,0
+Shut down the smart light in the lab.,TURN_OFF,English,1
+Angalia kama stima iko.,GET_STATUS,Swahili,2
+Switch off the desk lamp.,TURN_OFF,English,1
+Turn on the desk lamp.,TURN_ON,English,0
+How can I save energy with this bulb?,GET_ADVICE,English,3
+Turn on the desk lamp.,TURN_ON,English,0
+Is the bedroom light burning?,GET_STATUS,English,2
+Kill the power to the led.,TURN_OFF,English,1
+Switch off the light.,TURN_OFF,English,1
+Shut down the smart light in the sitting room.,TURN_OFF,English,1
+Angalia kama stima iko.,GET_STATUS,Swahili,2
+Washa taa ya meza ya sebuleni.,TURN_ON,Swahili,0
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+Kill the power to the bulb.,TURN_OFF,English,1
+Angalia kama stima iko.,GET_STATUS,Swahili,2
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+Nisaidie kupunguza gharama ya taa.,GET_ADVICE,Swahili,3
+Washa stima.,TURN_ON,Swahili,0
+Angalia kama stima iko.,GET_STATUS,Swahili,2
+Washa stima.,TURN_ON,Swahili,0
+"Je, bulb imewaka?",GET_STATUS,Swahili,2
+Weka taa ON.,TURN_ON,Swahili,0
+Zima taa ya meza.,TURN_OFF,Swahili,1
+Zima stima.,TURN_OFF,Swahili,1
+Zima taa ya meza.,TURN_OFF,Swahili,1
+Turn off the led.,TURN_OFF,English,1
+Activate the bedroom led.,TURN_ON,English,0
+Activate the lab desk lamp.,TURN_ON,English,0
+How do I optimize power?,GET_ADVICE,English,3
+Check the status of the bulb.,GET_STATUS,English,2
+Angalia kama stima iko.,GET_STATUS,Swahili,2
+Switch on the led.,TURN_ON,English,0
+Is the smart light on?,GET_STATUS,English,2
+Is the kitchen light burning?,GET_STATUS,English,2
+How do I optimize power?,GET_ADVICE,English,3
+"Je, stima imewaka?",GET_STATUS,Swahili,2
+Check the status of the light.,GET_STATUS,English,2
+How can I save energy with this desk lamp?,GET_ADVICE,English,3
+Washa stima.,TURN_ON,Swahili,0
+Is the desk lamp on?,GET_STATUS,English,2
+Turn off the smart light.,TURN_OFF,English,1
+Is the relay active?,GET_STATUS,English,2
+Check the status of the light.,GET_STATUS,English,2
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+Washa stima ya darasani.,TURN_ON,Swahili,0
+Turn on the desk lamp.,TURN_ON,English,0
+Taa ya chumbani iko on?,GET_STATUS,Swahili,2
+Zima bulb ya maandazi/lab.,TURN_OFF,Swahili,1
+Turn off the bulb.,TURN_OFF,English,1
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Give me tips to lower light usage.,GET_ADVICE,English,3
+How do I optimize power?,GET_ADVICE,English,3
+Weka taa ya meza ON.,TURN_ON,Swahili,0
+"Je, kuna stima kwa taa?",GET_STATUS,Swahili,2
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+Check the status of the led.,GET_STATUS,English,2
+"Je, kuna stima kwa bulb?",GET_STATUS,Swahili,2
+Shut down the light in the bedroom.,TURN_OFF,English,1
+"Je, bulb imewaka?",GET_STATUS,Swahili,2
+Weka taa OFF.,TURN_OFF,Swahili,1
+Weka stima OFF.,TURN_OFF,Swahili,1
+Taa ya sebuleni iko on?,GET_STATUS,Swahili,2
+"Je, stima imewaka?",GET_STATUS,Swahili,2
+Weka taa ya meza ON.,TURN_ON,Swahili,0
+Weka bulb OFF.,TURN_OFF,Swahili,1
+Angalia kama stima iko.,GET_STATUS,Swahili,2
+Washa bulb.,TURN_ON,Swahili,0
+How do I optimize power?,GET_ADVICE,English,3
+Nisaidie kupunguza gharama ya bulb.,GET_ADVICE,Swahili,3
+Turn off the led.,TURN_OFF,English,1
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+Switch off the light.,TURN_OFF,English,1
+Is the bedroom light burning?,GET_STATUS,English,2
+Check the status of the bulb.,GET_STATUS,English,2
+Is the relay active?,GET_STATUS,English,2
+Weka stima OFF.,TURN_OFF,Swahili,1
+Is the bedroom light burning?,GET_STATUS,English,2
+Zima stima.,TURN_OFF,Swahili,1
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Zima taa.,TURN_OFF,Swahili,1
+Switch off the bulb.,TURN_OFF,English,1
+"Je, bulb imewaka?",GET_STATUS,Swahili,2
+How can I save energy with this bulb?,GET_ADVICE,English,3
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+Switch off the led.,TURN_OFF,English,1
+Kill the power to the smart light.,TURN_OFF,English,1
+Washa stima.,TURN_ON,Swahili,0
+Weka taa ya meza ON.,TURN_ON,Swahili,0
+Turn on the light.,TURN_ON,English,0
+Angalia kama stima iko.,GET_STATUS,Swahili,2
+Washa stima.,TURN_ON,Swahili,0
+Zima stima.,TURN_OFF,Swahili,1
+Nisaidie kupunguza gharama ya bulb.,GET_ADVICE,Swahili,3
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+Turn on the desk lamp.,TURN_ON,English,0
+Is the led on?,GET_STATUS,English,2
+Weka stima ON.,TURN_ON,Swahili,0
+Shut down the smart light in the lab.,TURN_OFF,English,1
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+Activate the bedroom led.,TURN_ON,English,0
+Washa stima.,TURN_ON,Swahili,0
+Check the status of the desk lamp.,GET_STATUS,English,2
+Taa ya maandazi/lab iko on?,GET_STATUS,Swahili,2
+How do I optimize power?,GET_ADVICE,English,3
+Switch on the light.,TURN_ON,English,0
+Zima stima.,TURN_OFF,Swahili,1
+Washa stima.,TURN_ON,Swahili,0
+Weka taa OFF.,TURN_OFF,Swahili,1
+Activate the classroom light.,TURN_ON,English,0
+Is the desk lamp on?,GET_STATUS,English,2
+Turn off the led.,TURN_OFF,English,1
+How can I save energy with this desk lamp?,GET_ADVICE,English,3
+Washa bulb.,TURN_ON,Swahili,0
+Angalia kama stima iko.,GET_STATUS,Swahili,2
+Nisaidie kupunguza gharama ya stima.,GET_ADVICE,Swahili,3
+Nisaidie kupunguza gharama ya bulb.,GET_ADVICE,Swahili,3
+Nisaidie kupunguza gharama ya taa.,GET_ADVICE,Swahili,3
+Turn off the bulb.,TURN_OFF,English,1
+"Je, kuna stima kwa taa?",GET_STATUS,Swahili,2
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+Kill the power to the smart light.,TURN_OFF,English,1
+Zima bulb ya chumbani.,TURN_OFF,Swahili,1
+Is the relay active?,GET_STATUS,English,2
+Zima stima.,TURN_OFF,Swahili,1
+Zima taa ya meza ya sebuleni.,TURN_OFF,Swahili,1
+Weka taa ya meza ON.,TURN_ON,Swahili,0
+"Je, kuna stima kwa stima?",GET_STATUS,Swahili,2
+Switch on the bulb.,TURN_ON,English,0
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Angalia kama stima iko.,GET_STATUS,Swahili,2
+Washa taa ya sebuleni.,TURN_ON,Swahili,0
+Is the kitchen light burning?,GET_STATUS,English,2
+Washa bulb.,TURN_ON,Swahili,0
+Shut down the led in the kitchen.,TURN_OFF,English,1
+Shut down the desk lamp in the lab.,TURN_OFF,English,1
+Check the status of the light.,GET_STATUS,English,2
+Turn off the led.,TURN_OFF,English,1
+Power up the bulb in the sitting room.,TURN_ON,English,0
+Kill the power to the smart light.,TURN_OFF,English,1
+Zima stima.,TURN_OFF,Swahili,1
+Zima stima.,TURN_OFF,Swahili,1
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+How do I optimize power?,GET_ADVICE,English,3
+Washa bulb ya sebuleni.,TURN_ON,Swahili,0
+Taa ya darasani iko on?,GET_STATUS,Swahili,2
+Is the light on?,GET_STATUS,English,2
+Weka bulb ON.,TURN_ON,Swahili,0
+Is the relay active?,GET_STATUS,English,2
+Activate the sitting room light.,TURN_ON,English,0
+How can I save energy with this led?,GET_ADVICE,English,3
+Washa taa ya meza.,TURN_ON,Swahili,0
+Power up the light in the lab.,TURN_ON,English,0
+Weka taa ON.,TURN_ON,Swahili,0
+Kill the power to the led.,TURN_OFF,English,1
+Turn off the led.,TURN_OFF,English,1
+Activate the lab desk lamp.,TURN_ON,English,0
+Zima taa ya meza ya sebuleni.,TURN_OFF,Swahili,1
+Washa stima.,TURN_ON,Swahili,0
+How can I save energy with this bulb?,GET_ADVICE,English,3
+Washa stima ya sebuleni.,TURN_ON,Swahili,0
+Kill the power to the bulb.,TURN_OFF,English,1
+Angalia kama stima iko.,GET_STATUS,Swahili,2
+Turn on the smart light.,TURN_ON,English,0
+Switch on the desk lamp.,TURN_ON,English,0
+Switch on the desk lamp.,TURN_ON,English,0
+Washa stima.,TURN_ON,Swahili,0
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Shut down the bulb in the lab.,TURN_OFF,English,1
+"Je, taa imewaka?",GET_STATUS,Swahili,2
+Switch on the light.,TURN_ON,English,0
+Turn on the bulb.,TURN_ON,English,0
+Kill the power to the bulb.,TURN_OFF,English,1
+How can I save energy with this led?,GET_ADVICE,English,3
+Weka taa OFF.,TURN_OFF,Swahili,1
+Washa stima ya jikoni.,TURN_ON,Swahili,0
+Washa stima.,TURN_ON,Swahili,0
+Switch on the bulb.,TURN_ON,English,0
+Angalia kama stima iko.,GET_STATUS,Swahili,2
+Check the status of the smart light.,GET_STATUS,English,2
+Zima stima.,TURN_OFF,Swahili,1
+Turn off the desk lamp.,TURN_OFF,English,1
+How can I save energy with this smart light?,GET_ADVICE,English,3
+Power up the led in the bedroom.,TURN_ON,English,0
+Switch off the desk lamp.,TURN_OFF,English,1
+Zima taa ya meza.,TURN_OFF,Swahili,1
+Zima stima.,TURN_OFF,Swahili,1
+Washa taa ya darasani.,TURN_ON,Swahili,0
+Washa taa ya chumbani.,TURN_ON,Swahili,0
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Turn on the bulb.,TURN_ON,English,0
+Turn on the desk lamp.,TURN_ON,English,0
+Shut down the led in the sitting room.,TURN_OFF,English,1
+Switch on the bulb.,TURN_ON,English,0
+Weka stima OFF.,TURN_OFF,Swahili,1
+Switch on the bulb.,TURN_ON,English,0
+Nisaidie kupunguza gharama ya taa ya meza.,GET_ADVICE,Swahili,3
+"Je, kuna stima kwa taa?",GET_STATUS,Swahili,2
+Turn on the desk lamp.,TURN_ON,English,0
+Washa bulb.,TURN_ON,Swahili,0
+Turn off the light.,TURN_OFF,English,1
+Is the sitting room light burning?,GET_STATUS,English,2
+Switch on the desk lamp.,TURN_ON,English,0
+Turn on the desk lamp.,TURN_ON,English,0
+How can I save energy with this desk lamp?,GET_ADVICE,English,3
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+Weka taa ya meza OFF.,TURN_OFF,Swahili,1
+Zima taa ya meza ya jikoni.,TURN_OFF,Swahili,1
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Is the smart light on?,GET_STATUS,English,2
+"Je, kuna stima kwa taa ya meza?",GET_STATUS,Swahili,2
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+Is the light on?,GET_STATUS,English,2
+Weka stima ON.,TURN_ON,Swahili,0
+Zima taa.,TURN_OFF,Swahili,1
+Zima bulb ya darasani.,TURN_OFF,Swahili,1
+Zima stima.,TURN_OFF,Swahili,1
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Is the relay active?,GET_STATUS,English,2
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+How do I optimize power?,GET_ADVICE,English,3
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+Activate the lab light.,TURN_ON,English,0
+Washa stima.,TURN_ON,Swahili,0
+Kill the power to the smart light.,TURN_OFF,English,1
+Zima stima.,TURN_OFF,Swahili,1
+Activate the bedroom smart light.,TURN_ON,English,0
+"Je, kuna stima kwa taa?",GET_STATUS,Swahili,2
+Is the bulb on?,GET_STATUS,English,2
+Check the status of the bulb.,GET_STATUS,English,2
+Is the led on?,GET_STATUS,English,2
+"Je, kuna stima kwa bulb?",GET_STATUS,Swahili,2
+Is the bulb on?,GET_STATUS,English,2
+Power up the smart light in the kitchen.,TURN_ON,English,0
+Zima bulb.,TURN_OFF,Swahili,1
+Is the desk lamp on?,GET_STATUS,English,2
+Shut down the smart light in the lab.,TURN_OFF,English,1
+Weka bulb OFF.,TURN_OFF,Swahili,1
+Zima stima ya darasani.,TURN_OFF,Swahili,1
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+Weka stima OFF.,TURN_OFF,Swahili,1
+Weka taa ON.,TURN_ON,Swahili,0
+Is the desk lamp on?,GET_STATUS,English,2
+Weka stima ON.,TURN_ON,Swahili,0
+How do I optimize power?,GET_ADVICE,English,3
+Washa stima.,TURN_ON,Swahili,0
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Weka taa OFF.,TURN_OFF,Swahili,1
+Switch on the light.,TURN_ON,English,0
+Washa stima.,TURN_ON,Swahili,0
+Zima taa ya meza ya darasani.,TURN_OFF,Swahili,1
+Kill the power to the desk lamp.,TURN_OFF,English,1
+Zima stima.,TURN_OFF,Swahili,1
+Zima stima.,TURN_OFF,Swahili,1
+Is the bedroom light burning?,GET_STATUS,English,2
+Zima stima.,TURN_OFF,Swahili,1
+Is the relay active?,GET_STATUS,English,2
+Nisaidie kupunguza gharama ya taa.,GET_ADVICE,Swahili,3
+Taa ya maandazi/lab iko on?,GET_STATUS,Swahili,2
+Give me tips to lower light usage.,GET_ADVICE,English,3
+How can I save energy with this desk lamp?,GET_ADVICE,English,3
+Switch off the desk lamp.,TURN_OFF,English,1
+How do I optimize power?,GET_ADVICE,English,3
+Shut down the smart light in the sitting room.,TURN_OFF,English,1
+Shut down the light in the sitting room.,TURN_OFF,English,1
+Kill the power to the bulb.,TURN_OFF,English,1
+Taa ya sebuleni iko on?,GET_STATUS,Swahili,2
+Switch on the light.,TURN_ON,English,0
+Switch off the led.,TURN_OFF,English,1
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Is the classroom light burning?,GET_STATUS,English,2
+Switch off the desk lamp.,TURN_OFF,English,1
+How can I save energy with this led?,GET_ADVICE,English,3
+How do I optimize power?,GET_ADVICE,English,3
+Angalia kama stima iko.,GET_STATUS,Swahili,2
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+"Je, bulb imewaka?",GET_STATUS,Swahili,2
+Angalia kama stima iko.,GET_STATUS,Swahili,2
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Check the status of the smart light.,GET_STATUS,English,2
+Activate the kitchen smart light.,TURN_ON,English,0
+How can I save energy with this bulb?,GET_ADVICE,English,3
+Weka stima ON.,TURN_ON,Swahili,0
+How can I save energy with this smart light?,GET_ADVICE,English,3
+How do I optimize power?,GET_ADVICE,English,3
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+How can I save energy with this bulb?,GET_ADVICE,English,3
+"Je, kuna stima kwa taa?",GET_STATUS,Swahili,2
+Switch on the smart light.,TURN_ON,English,0
+Zima stima.,TURN_OFF,Swahili,1
+Zima stima.,TURN_OFF,Swahili,1
+Is the relay active?,GET_STATUS,English,2
+Angalia kama stima iko.,GET_STATUS,Swahili,2
+Turn off the bulb.,TURN_OFF,English,1
+Switch on the smart light.,TURN_ON,English,0
+Switch off the bulb.,TURN_OFF,English,1
+Taa ya sebuleni iko on?,GET_STATUS,Swahili,2
+Kill the power to the light.,TURN_OFF,English,1
+Turn on the desk lamp.,TURN_ON,English,0
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+How can I save energy with this desk lamp?,GET_ADVICE,English,3
+Kill the power to the bulb.,TURN_OFF,English,1
+Turn off the bulb.,TURN_OFF,English,1
+Nisaidie kupunguza gharama ya stima.,GET_ADVICE,Swahili,3
+Is the led on?,GET_STATUS,English,2
+Is the smart light on?,GET_STATUS,English,2
+How can I save energy with this led?,GET_ADVICE,English,3
+Weka taa ya meza ON.,TURN_ON,Swahili,0
+Is the relay active?,GET_STATUS,English,2
+Nisaidie kupunguza gharama ya bulb.,GET_ADVICE,Swahili,3
+Weka bulb ON.,TURN_ON,Swahili,0
+Kill the power to the bulb.,TURN_OFF,English,1
+Washa stima.,TURN_ON,Swahili,0
+Switch on the led.,TURN_ON,English,0
+Weka taa ON.,TURN_ON,Swahili,0
+Is the relay active?,GET_STATUS,English,2
+Switch off the bulb.,TURN_OFF,English,1
+Is the light on?,GET_STATUS,English,2
+Zima stima.,TURN_OFF,Swahili,1
+Check the status of the led.,GET_STATUS,English,2
+Turn off the desk lamp.,TURN_OFF,English,1
+Angalia kama stima iko.,GET_STATUS,Swahili,2
+Check the status of the bulb.,GET_STATUS,English,2
+Power up the smart light in the bedroom.,TURN_ON,English,0
+Switch off the bulb.,TURN_OFF,English,1
+Turn on the led.,TURN_ON,English,0
+Zima stima.,TURN_OFF,Swahili,1
+Nisaidie kupunguza gharama ya stima.,GET_ADVICE,Swahili,3
+Zima bulb ya maandazi/lab.,TURN_OFF,Swahili,1
+Washa stima ya sebuleni.,TURN_ON,Swahili,0
+Taa ya chumbani iko on?,GET_STATUS,Swahili,2
+How can I save energy with this smart light?,GET_ADVICE,English,3
+How can I save energy with this light?,GET_ADVICE,English,3
+Nisaidie kupunguza gharama ya taa ya meza.,GET_ADVICE,Swahili,3
+Turn on the smart light.,TURN_ON,English,0
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+Zima stima.,TURN_OFF,Swahili,1
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Is the classroom light burning?,GET_STATUS,English,2
+Turn on the smart light.,TURN_ON,English,0
+How can I save energy with this led?,GET_ADVICE,English,3
+Turn on the desk lamp.,TURN_ON,English,0
+Nisaidie kupunguza gharama ya bulb.,GET_ADVICE,Swahili,3
+Activate the classroom led.,TURN_ON,English,0
+How do I optimize power?,GET_ADVICE,English,3
+Angalia kama stima iko.,GET_STATUS,Swahili,2
+Is the bedroom light burning?,GET_STATUS,English,2
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+Washa stima.,TURN_ON,Swahili,0
+Activate the bedroom smart light.,TURN_ON,English,0
+Is the light on?,GET_STATUS,English,2
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+Washa stima.,TURN_ON,Swahili,0
+Check the status of the light.,GET_STATUS,English,2
+Washa stima ya darasani.,TURN_ON,Swahili,0
+Weka taa ya meza OFF.,TURN_OFF,Swahili,1
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+Taa ya jikoni iko on?,GET_STATUS,Swahili,2
+Weka taa ON.,TURN_ON,Swahili,0
+Turn off the light.,TURN_OFF,English,1
+Shut down the desk lamp in the classroom.,TURN_OFF,English,1
+"Je, bulb imewaka?",GET_STATUS,Swahili,2
+Washa stima.,TURN_ON,Swahili,0
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+Zima taa ya jikoni.,TURN_OFF,Swahili,1
+Activate the lab smart light.,TURN_ON,English,0
+Power up the light in the kitchen.,TURN_ON,English,0
+Is the sitting room light burning?,GET_STATUS,English,2
+Angalia kama stima iko.,GET_STATUS,Swahili,2
+How can I save energy with this led?,GET_ADVICE,English,3
+Is the bedroom light burning?,GET_STATUS,English,2
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+Turn off the smart light.,TURN_OFF,English,1
+Weka taa ya meza ON.,TURN_ON,Swahili,0
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+Shut down the bulb in the kitchen.,TURN_OFF,English,1
+Nisaidie kupunguza gharama ya taa ya meza.,GET_ADVICE,Swahili,3
+Is the relay active?,GET_STATUS,English,2
+"Je, stima imewaka?",GET_STATUS,Swahili,2
+Nisaidie kupunguza gharama ya bulb.,GET_ADVICE,Swahili,3
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3
+"Je, kuna stima kwa taa ya meza?",GET_STATUS,Swahili,2
+How can I save energy with this desk lamp?,GET_ADVICE,English,3
+Give me tips to lower light usage.,GET_ADVICE,English,3
+Washa stima.,TURN_ON,Swahili,0
+Nisaidie kupunguza gharama ya taa.,GET_ADVICE,Swahili,3
+Shut down the led in the lab.,TURN_OFF,English,1
+Activate the bedroom light.,TURN_ON,English,0
+Angalia kama stima iko.,GET_STATUS,Swahili,2
+Switch on the smart light.,TURN_ON,English,0
+Zima stima.,TURN_OFF,Swahili,1
+Weka bulb ON.,TURN_ON,Swahili,0
+Power up the smart light in the bedroom.,TURN_ON,English,0
+Turn off the desk lamp.,TURN_OFF,English,1
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+Weka taa OFF.,TURN_OFF,Swahili,1
+Ninawezaje kupunguza matumizi ya taa?,GET_ADVICE,Swahili,3
+Weka taa ya meza ON.,TURN_ON,Swahili,0
+How can I save energy with this bulb?,GET_ADVICE,English,3
+Nipe mbinu za kuokoa stima hapa.,GET_ADVICE,Swahili,3

@@ -1,0 +1,101 @@
+device_id,appliance,room,power,voltage,current,timestamp
+1209d3b1-9a22-4a61-adc3-812b3991d6ab,Washing Machine,Living Room,954.46,237.29,4.02,59:57.9
+fa1289a9-b4f9-473a-bf88-9096af223e41,Microwave,Bathroom,1141.29,227.23,5.02,12:57.9
+aa0fae18-2921-48e1-a584-a204d1314c3b,Lights,Kitchen,53.52,239.67,0.22,07:57.9
+d34eb962-a885-4930-bfd5-1230c3120657,Microwave,Bedroom,1206.8,211.75,5.7,17:57.9
+8755b220-4bbc-4a81-aa77-0a4748c9e64c,Water Heater,Bathroom,2363.92,212.64,11.12,56:57.9
+12d00a59-d5f5-4336-ae1a-0e23759fc600,Microwave,Bedroom,1106.29,224.92,4.92,52:57.9
+139e862a-4312-4b50-84ca-a4b3f5fee081,Laptop,Kitchen,43.08,215.11,0.2,25:57.9
+f62d1e57-3660-4f44-a1f3-49580bf6c613,Washing Machine,Bedroom,884.65,231.12,3.83,13:57.9
+4a1dd819-2f2d-4e31-b4cc-a65e82681e3c,Refrigerator,Bedroom,154.11,227.11,0.68,45:57.9
+363c38b2-4183-432a-bd15-ebafe0ce3aa7,Lights,Living Room,81.31,236.72,0.34,51:57.9
+694884d6-e588-43f3-a0f6-418e3a0c01ab,Washing Machine,Bedroom,724.76,234.99,3.08,38:57.9
+baab2e33-d676-4aa1-af78-3c0cbfb8fe23,Refrigerator,Living Room,164.66,232.64,0.71,16:57.9
+9549ac2f-aeb7-4492-849b-61496f5bcfcf,Microwave,Living Room,1335.94,226.92,5.89,57:57.9
+5dcee6ba-96ec-4e54-b95b-ecfff84a4092,Microwave,Bathroom,867.28,235.56,3.68,36:57.9
+67be769c-3bbc-482e-8b4a-20975af6ba75,Washing Machine,Bathroom,714.27,219.18,3.26,27:57.9
+255fcb2b-b4df-4358-af93-d68b4711610e,Microwave,Living Room,1051.42,220.91,4.76,15:57.9
+308a5d7d-f561-4566-934e-b1938298f206,Air Conditioner,Kitchen,1791.48,236.58,7.57,52:57.9
+c7b71076-7d59-408f-a4cd-7298e176d663,Air Conditioner,Kitchen,2162.62,211.96,10.2,20:57.9
+4753fd04-b95b-457d-9634-b2947795f483,Water Heater,Bedroom,1813.83,219.96,8.25,47:57.9
+83eee429-6ce4-4b9e-965c-f2b6ffd30209,Air Conditioner,Living Room,1810.32,230.74,7.85,01:57.9
+c8ddb48f-3503-427a-86a1-5d756b30171b,Washing Machine,Living Room,982.94,231.73,4.24,15:57.9
+3db539d9-fa2f-430a-a856-3a3c59954dcb,Lights,Kitchen,54.6,226.23,0.24,26:57.9
+2dbaa313-e617-42eb-b695-3eb18e410b88,Laptop,Living Room,96.73,231.35,0.42,01:57.9
+64089db6-a194-400a-ad36-70b5c5438af4,Television,Kitchen,119.78,231.95,0.52,59:57.9
+1f05eebb-8aea-4f0e-8a75-9926a7b2c10e,Washing Machine,Living Room,1025.91,229.78,4.46,38:57.9
+88aaf61b-6b2e-4b57-85e2-5bd3b31d3fab,Lights,Bedroom,50.38,217.85,0.23,38:57.9
+c603225f-8875-46c1-a81b-9b28dde3d9af,Air Conditioner,Living Room,2224.92,239.41,9.29,14:57.9
+25dff6d6-2770-4c40-b857-a00ab8ec2ac1,Air Conditioner,Bathroom,1751.22,222.11,7.88,03:57.9
+a90aa563-0cbb-4d67-a654-b5defc364dc0,Washing Machine,Bathroom,563.57,238.96,2.36,48:57.9
+020845c0-3e8a-41eb-b49b-57c5f71296a5,Water Heater,Living Room,2850.4,235.82,12.09,16:57.9
+f067e13d-103a-4f2b-b7bb-8eb9ee68f371,Laptop,Living Room,93.19,226.48,0.41,54:57.9
+15ea3c93-c8dc-4a4e-b30f-d4f858c29cc5,Lights,Kitchen,50.02,238.63,0.21,44:57.9
+7eecb78d-f59f-4c1c-a40e-a7e2d859c130,Television,Kitchen,121.44,223.65,0.54,15:57.9
+7fd68b69-83ff-4ec7-82f9-387c098a2699,Lights,Kitchen,85.9,237.03,0.36,53:57.9
+cd576b50-020f-4465-a117-68db143bfcb0,Water Heater,Bathroom,2875.84,227.14,12.66,13:57.9
+c0c662a1-5496-487e-b9ba-3f445133249f,Television,Living Room,62.42,235.62,0.26,32:57.9
+95fdf80c-30ca-4f03-898d-2ee3fb0fe78f,Air Conditioner,Kitchen,2121.37,234.4,9.05,40:57.9
+b099bc48-7aac-4725-bfe8-3e4dd47b13c3,Washing Machine,Bathroom,965.95,231.72,4.17,58:57.9
+8f1a62f1-f780-4f6b-b8a1-207d6e42aa65,Water Heater,Living Room,2252.6,213.33,10.56,25:57.9
+143b61eb-4981-4531-886f-463bc3fe0828,Air Conditioner,Living Room,2363.27,216.87,10.9,29:57.9
+8ec54902-fb8b-4606-ae35-04735af64b3b,Air Conditioner,Bedroom,2496.05,213.74,11.68,01:57.9
+9a8e4f19-740f-43b5-91e7-b382106198f1,Air Conditioner,Kitchen,1781.05,227.7,7.82,32:57.9
+6752522a-e7bf-446d-9ba2-33e82a3b0692,Refrigerator,Living Room,104.54,228.34,0.46,10:57.9
+34bc99f5-24e7-4ae7-a338-204adbc34783,Television,Bedroom,142.81,218.08,0.65,40:57.9
+2b639fc5-d381-48f2-b77c-e656f8055f70,Water Heater,Kitchen,2293.88,228.79,10.03,29:57.9
+08b367db-4662-462f-acff-47c0345db4ca,Lights,Kitchen,68.34,234.88,0.29,55:57.9
+6ccb6fd6-c7d7-4885-a170-c3dac9a083f9,Washing Machine,Kitchen,1134.41,234.5,4.84,32:57.9
+321f8e1d-f796-42a0-ad9e-77f23b3b9644,Microwave,Bedroom,1151.31,210.94,5.46,47:57.9
+a4460336-af2c-4ba1-8855-802f1b3924f6,Air Conditioner,Living Room,2013.88,222.68,9.04,45:57.9
+1f285f6c-0a2b-40eb-9b75-2d98594151c2,Microwave,Bedroom,1146.71,236.1,4.86,51:57.9
+5167044f-a60a-4c79-a737-3351b9cd8b97,Water Heater,Kitchen,2202.94,223.41,9.86,58:57.9
+bad32421-9c48-4660-a930-424c1ac8200e,Washing Machine,Bedroom,1035.03,214.58,4.82,21:57.9
+0ae3f1fc-5149-46b9-989d-79e1a5cb39e0,Microwave,Bathroom,916.66,233.24,3.93,01:57.9
+01ba5358-7b24-4d5e-902a-98dfdd05ac01,Air Conditioner,Bathroom,1520.5,213.38,7.13,58:57.9
+73e2a3c2-d836-4013-a43b-93bd21b61b51,Air Conditioner,Bathroom,1303.64,219.89,5.93,45:57.9
+73ea2b69-b1e3-4b4f-b552-3584025df173,Laptop,Bedroom,77.47,226.97,0.34,03:57.9
+1f8483e5-fc97-42ae-85ca-7f6c725eb084,Lights,Bedroom,27,224.66,0.12,49:57.9
+dead41f0-738f-466f-9a50-ec3ee539d72c,Microwave,Bathroom,1059.02,224.83,4.71,53:57.9
+520326e0-3ad6-422c-ba81-95e25a5d8ca9,Refrigerator,Kitchen,185.52,215.85,0.86,52:57.9
+be204aec-ca71-44ce-83e3-efeaa3df6030,Refrigerator,Kitchen,230.4,214.07,1.08,27:57.9
+d929b3a8-988c-451c-8176-9870e3956021,Air Conditioner,Living Room,2202.18,228.51,9.64,18:57.9
+8ac2eaf2-94b0-4d2e-8080-80c7c40ad5a5,Microwave,Kitchen,1109.55,227.91,4.87,57:57.9
+debef605-c622-40fa-8308-2660a72b9255,Air Conditioner,Bathroom,1237.02,215.42,5.74,10:57.9
+f23839ae-00ae-4012-9170-4ff337e7aa70,Washing Machine,Living Room,1023.61,231.44,4.42,58:57.9
+a6873f0c-5ffd-4cb4-a825-5aeefe4152ae,Washing Machine,Kitchen,788.98,223.45,3.53,02:57.9
+85de5e13-ab95-4cf3-83b0-ee248d9e266b,Television,Bedroom,53.47,229.93,0.23,42:57.9
+b65571c2-43cc-47b7-a083-0bdeee0fef19,Laptop,Bedroom,66.22,222.35,0.3,26:57.9
+8ccefac2-d2ef-4176-ad49-e2f1187a27df,Television,Kitchen,51.61,212.2,0.24,55:57.9
+db2055a7-5fea-459e-bbdc-edc2633f80f2,Microwave,Bathroom,1025.62,235.55,4.35,04:57.9
+9ceb6c49-ca0b-4af6-bfdf-de0517e88d51,Refrigerator,Bedroom,130.83,213.14,0.61,22:57.9
+18819c91-5807-4589-a4ad-1c080d841cd0,Microwave,Bathroom,1316.35,239.98,5.49,50:57.9
+3e6bedfb-c843-4eb1-bec2-d0e8973168dd,Microwave,Bedroom,1366.67,223.53,6.11,44:57.9
+5e048395-cdc5-4719-b861-7fe1c5f585ac,Washing Machine,Kitchen,660.1,238.6,2.77,25:57.9
+d6356ced-1ca6-4ce3-a3c5-9eda9d4ad9d2,Lights,Living Room,66.23,217.8,0.3,44:57.9
+a66a73cf-0c35-4606-881d-7e4ae8096290,Water Heater,Bathroom,1509.78,238.28,6.34,54:57.9
+bd2c5d31-a4de-46a3-aae5-3da299744160,Washing Machine,Kitchen,877.46,220.22,3.98,59:57.9
+6e725e7a-43c3-4523-81e4-d57f70117bee,Laptop,Living Room,112.75,224.16,0.5,34:57.9
+a800682f-308b-4bb7-b3d0-95bd57f26c07,Air Conditioner,Bedroom,2256.46,225.07,10.03,58:57.9
+9fb2e3f8-26b1-4417-90c6-46a9e8e33239,Microwave,Kitchen,1145.67,214.01,5.35,48:57.9
+289d49d8-30cd-4e95-8e19-f6ffcd5b555e,Television,Kitchen,129.02,213.99,0.6,26:57.9
+202beeb5-9807-4e54-9256-ba81d7d9c81a,Laptop,Kitchen,112.86,236.1,0.48,05:57.9
+d9ab2a8d-88d8-4094-9663-3034e4991274,Laptop,Kitchen,71.12,232.43,0.31,26:57.9
+fc7a721f-fb83-495d-87c6-65b7f5c32eaf,Water Heater,Living Room,2438.41,218.13,11.18,04:57.9
+09989554-19f0-4c57-9404-07f79e24e1ec,Television,Bedroom,86.76,239.57,0.36,58:57.9
+13de52b3-5d35-4602-aff4-20120fae3fb3,Washing Machine,Kitchen,1192.05,237.97,5.01,41:57.9
+978ddb20-e54e-48d4-bdab-c1963eb0c8ba,Television,Bedroom,178.63,211.89,0.84,13:57.9
+43a64770-e968-46e8-8ad9-21a83a2f4b82,Laptop,Kitchen,106.5,212.91,0.5,59:57.9
+e1c7149b-3e13-46b8-82b8-84c9e1d096c1,Laptop,Bathroom,54.65,212.83,0.26,20:57.9
+0192099a-b36d-42b1-8682-c3f26a4e721b,Lights,Living Room,63.59,215.24,0.3,38:57.9
+9e40ff77-a117-44b0-a015-7851ce432ab8,Microwave,Bathroom,1152.65,211.24,5.46,33:57.9
+07419532-9e11-4f32-9d81-c9c2ac9970d8,Microwave,Bathroom,1374.06,215.35,6.38,56:57.9
+fed00aa9-235d-4455-a20c-5b0940edb4b7,Washing Machine,Living Room,725.46,237.72,3.05,30:57.9
+e9c02667-cff9-4ef9-9ce9-f2960f633906,Laptop,Bedroom,108.17,235.53,0.46,39:57.9
+bca530cc-b4a3-4785-b170-3d9c748ade6b,Water Heater,Bathroom,2495.76,225.63,11.06,55:57.9
+74c730b4-2234-482f-92ed-a9fe570222a7,Microwave,Living Room,1345.06,221.59,6.07,54:57.9
+bf1d41ae-4209-4884-adfa-821fca74ac67,Lights,Living Room,22.56,217.67,0.1,29:57.9
+473db859-73db-4c78-a753-f79c9a20782f,Television,Bedroom,168.98,220.58,0.77,57:57.9
+bd510208-7b19-4e99-a738-35fa1c6d2bd0,Lights,Kitchen,41.62,236.41,0.18,44:57.9
+40b563ca-6c92-45d8-a532-b28cef3271f8,Laptop,Living Room,100.13,230.69,0.43,32:57.9
+9984e993-580c-406b-a6f4-dee0d6d094cb,Microwave,Bathroom,1348.76,217.01,6.22,42:57.9
